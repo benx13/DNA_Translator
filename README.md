@@ -14,7 +14,7 @@ $ python MainPage.py
 ```
 
 # preview
-![alt text](https://github.com/ahmedsifbenmessaoud/DNA_Translator/blob/master/Screenshot%20from%202019-07-24%2022-41-16.png)
+![alt text](https://github.com/ahmedsifbenmessaoud/DNA_Translator/blob/master/Screenshot%20from%202019-07-25%2015-00-23.png)
 
 License
 ----
