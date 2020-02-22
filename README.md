@@ -1,4 +1,5 @@
 # DNA_Translator
+High School project
 This program converts a given DNA sequence to its RNA and multipeptide, Buit using python and PyQt5.
 # install dependencies
 
